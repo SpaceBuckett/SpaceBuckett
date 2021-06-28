@@ -1,7 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br/>
 ### I am SpaceBucket (aka Shehzad), 
-<br/>
 ### Computer Systems Engineering Student and a researcher of the future.
 <br/>
 
