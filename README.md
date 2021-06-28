@@ -1,6 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I am SpaceBucket (aka Shehzad), 
-### Computer Systems Engineering Student and a researcher of the future.
+### I am SpaceBucket (aka Shehzad), A Computer Systems Engineering Student and a researcher of the future.
 <br/>
 
 <div align="center">
