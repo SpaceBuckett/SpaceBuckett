@@ -71,9 +71,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
 
-</div>
-<div align="center">
-</br>
+
 ![](https://img.shields.io/badge/OS-Linux&&Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Intellij&&VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java&&NodeJs&&Go-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
