@@ -49,7 +49,6 @@
 - 🤔 I love solving problem via coding!
 - 💻 I'm currently learning and working on Flutter, and Data Science and its applications in AI
 - ✍ A nerd who can sit for hours to the PC's screen
-- ✨ I'm learning Flutter, and Machine Learning
 - 🥾 Always up for a hike to the North
 - 📫 Reach me out at: shehxadv2.0@gmail.com
 <!-- ### Languages & Tools
